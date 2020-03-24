@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpeikooch.pmatas.ch/sitemap.xml
